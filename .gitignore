@@ -1,0 +1,15 @@
+# Model weights
+*.pth
+
+# FAISS index
+*.index
+
+# Datasets & images
+vit_dataset/
+query_images/
+both_C_and_NC/
+temp_query.png
+
+# Cache
+__pycache__/
+*.pyc

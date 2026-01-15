@@ -1,0 +1,3166 @@
+[
+    {
+        "path": "both_C_and_NC\\Lung MRI (1).png",
+        "original_size": [
+            409,
+            264
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (10).png",
+        "original_size": [
+            409,
+            328
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (100).png",
+        "original_size": [
+            423,
+            287
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (101).png",
+        "original_size": [
+            385,
+            263
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (102).png",
+        "original_size": [
+            381,
+            236
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (104).png",
+        "original_size": [
+            409,
+            273
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (105).png",
+        "original_size": [
+            368,
+            249
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (107).png",
+        "original_size": [
+            389,
+            308
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (108).png",
+        "original_size": [
+            420,
+            243
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (109).png",
+        "original_size": [
+            376,
+            228
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (11).png",
+        "original_size": [
+            397,
+            243
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (110).png",
+        "original_size": [
+            371,
+            240
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (111).png",
+        "original_size": [
+            403,
+            272
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (112).png",
+        "original_size": [
+            439,
+            255
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (113).png",
+        "original_size": [
+            426,
+            288
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (114).png",
+        "original_size": [
+            434,
+            329
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (115).png",
+        "original_size": [
+            423,
+            304
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (116).png",
+        "original_size": [
+            438,
+            299
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (117).png",
+        "original_size": [
+            430,
+            254
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (118).png",
+        "original_size": [
+            435,
+            266
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (119).png",
+        "original_size": [
+            419,
+            161
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (12).png",
+        "original_size": [
+            392,
+            244
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (120).png",
+        "original_size": [
+            374,
+            244
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (13).png",
+        "original_size": [
+            363,
+            270
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (15).png",
+        "original_size": [
+            337,
+            272
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (16).png",
+        "original_size": [
+            381,
+            229
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (17).png",
+        "original_size": [
+            437,
+            280
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (19).png",
+        "original_size": [
+            449,
+            274
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (2).png",
+        "original_size": [
+            342,
+            252
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (20).png",
+        "original_size": [
+            440,
+            270
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (21).png",
+        "original_size": [
+            423,
+            267
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (22).png",
+        "original_size": [
+            449,
+            288
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (23).png",
+        "original_size": [
+            416,
+            242
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (24).png",
+        "original_size": [
+            369,
+            281
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (25).png",
+        "original_size": [
+            389,
+            276
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (26).png",
+        "original_size": [
+            413,
+            255
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (27).png",
+        "original_size": [
+            384,
+            328
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (28).png",
+        "original_size": [
+            417,
+            323
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (29).png",
+        "original_size": [
+            386,
+            232
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (3).png",
+        "original_size": [
+            400,
+            273
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (30).png",
+        "original_size": [
+            430,
+            261
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (31).png",
+        "original_size": [
+            438,
+            302
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (32).png",
+        "original_size": [
+            410,
+            246
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (33).png",
+        "original_size": [
+            341,
+            247
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (34).png",
+        "original_size": [
+            401,
+            266
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (35).png",
+        "original_size": [
+            401,
+            296
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (36).png",
+        "original_size": [
+            412,
+            279
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (37).png",
+        "original_size": [
+            390,
+            250
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (38).png",
+        "original_size": [
+            327,
+            286
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (39).png",
+        "original_size": [
+            414,
+            274
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (4).png",
+        "original_size": [
+            423,
+            213
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (40).png",
+        "original_size": [
+            423,
+            242
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (41).png",
+        "original_size": [
+            394,
+            266
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (43).png",
+        "original_size": [
+            419,
+            269
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (44).png",
+        "original_size": [
+            413,
+            262
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (45).png",
+        "original_size": [
+            439,
+            258
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (46).png",
+        "original_size": [
+            444,
+            241
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (47).png",
+        "original_size": [
+            429,
+            259
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (48).png",
+        "original_size": [
+            426,
+            259
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (49).png",
+        "original_size": [
+            412,
+            297
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (5).png",
+        "original_size": [
+            437,
+            258
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (50).png",
+        "original_size": [
+            413,
+            305
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (51).png",
+        "original_size": [
+            413,
+            286
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (53).png",
+        "original_size": [
+            387,
+            258
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (54).png",
+        "original_size": [
+            377,
+            284
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (56).png",
+        "original_size": [
+            391,
+            295
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (57).png",
+        "original_size": [
+            396,
+            296
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (58).png",
+        "original_size": [
+            385,
+            265
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (59).png",
+        "original_size": [
+            418,
+            267
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (6).png",
+        "original_size": [
+            443,
+            260
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (60).png",
+        "original_size": [
+            410,
+            313
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (61).png",
+        "original_size": [
+            416,
+            278
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (62).png",
+        "original_size": [
+            384,
+            232
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (65).png",
+        "original_size": [
+            440,
+            274
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (66).png",
+        "original_size": [
+            439,
+            250
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (67).png",
+        "original_size": [
+            400,
+            240
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (68).png",
+        "original_size": [
+            345,
+            244
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (7).png",
+        "original_size": [
+            380,
+            231
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (70).png",
+        "original_size": [
+            402,
+            309
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (71).png",
+        "original_size": [
+            393,
+            320
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (72).png",
+        "original_size": [
+            425,
+            344
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (73).png",
+        "original_size": [
+            349,
+            239
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (74).png",
+        "original_size": [
+            364,
+            224
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (75).png",
+        "original_size": [
+            423,
+            249
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (76).png",
+        "original_size": [
+            417,
+            256
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (77).png",
+        "original_size": [
+            402,
+            252
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (78).png",
+        "original_size": [
+            338,
+            258
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (79).png",
+        "original_size": [
+            382,
+            291
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (8).png",
+        "original_size": [
+            376,
+            222
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (80).png",
+        "original_size": [
+            456,
+            302
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (81).png",
+        "original_size": [
+            377,
+            288
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (82).png",
+        "original_size": [
+            369,
+            309
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (83).png",
+        "original_size": [
+            381,
+            231
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (84).png",
+        "original_size": [
+            351,
+            244
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (85).png",
+        "original_size": [
+            441,
+            287
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (86).png",
+        "original_size": [
+            433,
+            271
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (87).png",
+        "original_size": [
+            347,
+            272
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (88).png",
+        "original_size": [
+            429,
+            245
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (89).png",
+        "original_size": [
+            393,
+            269
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (9).png",
+        "original_size": [
+            413,
+            311
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (90).png",
+        "original_size": [
+            420,
+            297
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (91).png",
+        "original_size": [
+            378,
+            255
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (92).png",
+        "original_size": [
+            401,
+            317
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (93).png",
+        "original_size": [
+            435,
+            313
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (94).png",
+        "original_size": [
+            403,
+            207
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (95).png",
+        "original_size": [
+            409,
+            224
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (96).png",
+        "original_size": [
+            361,
+            277
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (97).png",
+        "original_size": [
+            388,
+            280
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (98).png",
+        "original_size": [
+            343,
+            268
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\Lung MRI (99).png",
+        "original_size": [
+            431,
+            296
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (1).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (10).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (100).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (101).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (102).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (103).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (105).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (106).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (107).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (108).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (109).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (11).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (110).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (111).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (112).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (113).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (114).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (115).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (116).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (117).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (118).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (12).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (120).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (121).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (124).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (125).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (13).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (15).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (16).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (17).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (18).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (19).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (2).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (20).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (21).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (22).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (23).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (24).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (25).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (26).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (27).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (28).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (29).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (3).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (30).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (31).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (32).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (37).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (38).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (39).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (4).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (40).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (41).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (42).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (43).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (44).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (45).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (46).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (47).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (48).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (49).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (5).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (50).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (51).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (52).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (53).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (54).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (55).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (56).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (57).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (58).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (59).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (6).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (60).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (61).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (62).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (63).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (64).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (65).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (66).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (67).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (68).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (69).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (7).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (70).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (71).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (72).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (73).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (74).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (75).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (76).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (77).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (78).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (79).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (8).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (80).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (81).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (82).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (83).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (84).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (85).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (86).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (87).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (88).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (89).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (9).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (90).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (91).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (92).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (93).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (94).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (95).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (96).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (97).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (98).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    },
+    {
+        "path": "both_C_and_NC\\LUNG MRI-NC (99).png",
+        "original_size": [
+            512,
+            512
+        ],
+        "processed_shape": [
+            3,
+            224,
+            224
+        ],
+        "processed_dtype": "torch.float32",
+        "processed_device": "cpu"
+    }
+]
